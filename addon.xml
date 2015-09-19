@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.module.human_curl"
+       name="human_curl"
+       version="0.1.9"
+       provider-name="Andrew Leech">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.module" library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary>Curl requests for Humans</summary>
+    <description>Packed for Kodi from https://pypi.python.org/pypi/human_curl/0.1.9</description>
+    <license>https://github.com/Lispython/human_curl/blob/v0.1.9/LICENSE</license>
+    <platform>all</platform>
+    <source>https://github.com/andrewleech/script.module.human_curl</source>
+  </extension>
+</addon>
