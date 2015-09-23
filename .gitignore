@@ -1,1 +1,3 @@
 .idea
+*.pyc
+lib/kodi_human_curl/human_curl-0.1.9/dist
